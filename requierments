@@ -1,0 +1,27 @@
+    ====================
+        Installation
+    ====================
+
+1. npm init
+2. npm install node-sass --save-dev ==> devdependencies
+3. npm install node-sass --save (optional) ==> dependencies
+
+
+    ====================
+        Compilation
+    ====================
+1. update package.json file --> scripts attribute
+2. package-name  input-file output-file --> node-sass main.scss style.css
+3. npm run compile:sass (Terminal)
+
+To keep tracks for any updates that you make it on sass file , you should re-compile it again after each update, but this is not practical
+So, update package.json file to keep watching
+
+Then :  npm run compile:sass (once)
+
+
+Note: npm install live-server (To automatically reloading the page for any file changes)
+ ==> install it gloabally --> for any project in my PC not a particualr project
+npm install live-server -g 
+
+ */
