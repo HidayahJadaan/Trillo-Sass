@@ -1,2 +1,2 @@
-# Natours_Project
-![logo-green-small-1x](https://github.com/HidayahJadaan/Natours_Project/assets/121747756/f920006c-46ce-4714-a6a8-54eb707ce62f)
+# Trillo_Project
+![favicon](https://github.com/HidayahJadaan/Trillo-Sass/assets/121747756/813dcef0-9cf3-4412-8cb5-b487dd51cb77)
